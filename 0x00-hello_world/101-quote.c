@@ -1,12 +1,13 @@
 #include <stdio.h>
 
- /**
-*main - Entry point
-*Result: always 0 (success)
+/**
+* main - Entry point
+*
+* Return:  always 0 (success)
 */
 int main(void)
 {
-	fprintf(stderr, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
+	fprintf(stderr, "and that piece of art is useful\"Dora Korpar, 2015-10-19\n");
 	return (0);
 
 }
