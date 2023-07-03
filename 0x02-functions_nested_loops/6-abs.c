@@ -2,6 +2,7 @@
 /**
  *_abs - computes the absolute value of an integer
  *Return: absolute value
+ *@i: input number as an integer
 */
 int _abs(int i)
 {
@@ -11,6 +12,6 @@ int _abs(int i)
 	}
 	else
 	{
-		return (i * -1 );
+		return (i * -1);
 	}
 }
