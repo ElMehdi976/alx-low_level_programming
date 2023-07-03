@@ -2,6 +2,7 @@
 /**
  *print_sign - input number
  *Return: 1is positive, 0 is zero, -1 negative
+ *@n: input number as an integer
  */
 int print_sign(int n)
 {
