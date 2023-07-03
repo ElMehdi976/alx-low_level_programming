@@ -2,10 +2,11 @@
 /**
   *_isalpha - shows 1 if input is a letter otherwise 0
   *Return: 1 for letters 0 for rest.
+  *@c: charcter in ASCII code
   */
 int _isalpha(int c)
 {
-	if((c >= 97 && c <= 122) || (c >= 65 && c <= 90))
+	if ((c >= 97 && c <= 122) || (c >= 65 && c <= 90))
 	{
 		return (1);
 	}
