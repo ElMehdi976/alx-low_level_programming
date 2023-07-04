@@ -1,4 +1,8 @@
 #include"main.h"
+/**
+  *positive_or_negative - checks if number is positive or negative
+  *@i: numbere to be checked
+  */
 
 void positive_or_negative(int i)
 {
